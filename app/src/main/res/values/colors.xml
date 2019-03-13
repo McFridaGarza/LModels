@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff6603</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorservices"> #E5E5E5 </color>
+    <color name="white"> #FFFF </color>
+    <color name="control_background">#cc4285f4</color>
+    <color name="colorPrimaryUno">#FF6603</color>
+    <color name="colorPrimaryBarber">#0079BC</color>
+    <color name="colorPrimaryDarkBarber">#323890</color>
+    <color name="colorAccentBarber">#EB0521</color>
+    <color name="notification_unread">#B5E1FF</color>
+
+
+    <color name="colorTransparenteOscuro">#a7222222</color>
+    <color name="colorTransparenteLight">#8b222222</color>
+    <color name="colorBlack">#d4000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorOrange">#AB5D03</color>
+    <color name="naranja2">#D37A40</color>
+    <color name="naranja">#B85616</color>
+    <color name="dorado">#D3B918</color>
+    <color name="whiteOpaco">#eaeaea</color>
+    <color name="grayTransp">#c8333333</color>
+    <color name="brown_orange">#e6794701</color>
+    <color name="dorado_amarillo_brillante">#eacb0c</color>
+    <color name="background_list">#f00d0c0c</color>
+    <color name="pantone_419_c">#222222</color>
+    <color name="colorbar">#222222</color>
+
+
+    <color name="colorPrimario">#FFF</color>
+    <color name="colorBarra">#222222</color>
+    <color name="colorSecundario">#222222</color>
+    <color name="colorTerciario">#8F8080</color>
+    <color name="colorFont">#000</color>
+
+
+</resources>
